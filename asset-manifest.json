@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/assignment/aspen-landing-page/static/css/main.be2b6332.chunk.css",
+    "main.js": "/assignment/aspen-landing-page/static/js/main.8286cf8f.chunk.js",
+    "main.js.map": "/assignment/aspen-landing-page/static/js/main.8286cf8f.chunk.js.map",
+    "runtime-main.js": "/assignment/aspen-landing-page/static/js/runtime-main.3076b0a5.js",
+    "runtime-main.js.map": "/assignment/aspen-landing-page/static/js/runtime-main.3076b0a5.js.map",
+    "static/js/2.1d539887.chunk.js": "/assignment/aspen-landing-page/static/js/2.1d539887.chunk.js",
+    "static/js/2.1d539887.chunk.js.map": "/assignment/aspen-landing-page/static/js/2.1d539887.chunk.js.map",
+    "index.html": "/assignment/aspen-landing-page/index.html",
+    "precache-manifest.5cc270adb1ff6b700a2123cf3a00e3e0.js": "/assignment/aspen-landing-page/precache-manifest.5cc270adb1ff6b700a2123cf3a00e3e0.js",
+    "service-worker.js": "/assignment/aspen-landing-page/service-worker.js",
+    "static/css/main.be2b6332.chunk.css.map": "/assignment/aspen-landing-page/static/css/main.be2b6332.chunk.css.map",
+    "static/js/2.1d539887.chunk.js.LICENSE.txt": "/assignment/aspen-landing-page/static/js/2.1d539887.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/assignment/aspen-landing-page/static/media/background.2fed8a6d.png",
+    "static/media/blog-1.png": "/assignment/aspen-landing-page/static/media/blog-1.3f5c71bf.png",
+    "static/media/blog-2.png": "/assignment/aspen-landing-page/static/media/blog-2.e2b58e99.png",
+    "static/media/blog-3.png": "/assignment/aspen-landing-page/static/media/blog-3.b57cc497.png",
+    "static/media/blog-4.png": "/assignment/aspen-landing-page/static/media/blog-4.64ab6f65.png",
+    "static/media/card-1.png": "/assignment/aspen-landing-page/static/media/card-1.ea2ed172.png",
+    "static/media/card-2.png": "/assignment/aspen-landing-page/static/media/card-2.0d0f7445.png",
+    "static/media/card-3.png": "/assignment/aspen-landing-page/static/media/card-3.6f6f0655.png",
+    "static/media/logo.svg": "/assignment/aspen-landing-page/static/media/logo.f090e44c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3076b0a5.js",
+    "static/js/2.1d539887.chunk.js",
+    "static/css/main.be2b6332.chunk.css",
+    "static/js/main.8286cf8f.chunk.js"
+  ]
+}
