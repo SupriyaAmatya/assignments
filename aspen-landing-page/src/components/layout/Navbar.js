@@ -6,7 +6,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaBars } from "react-icons/fa";
 
 class Navbar extends Component {
-  state={
+  state = {
     isOpen: false
   }
 
@@ -15,6 +15,13 @@ class Navbar extends Component {
       isOpen: !this.state.isOpen
     })
   }
+
+  closeNav = () => {
+    this.setState({
+      isOpen: false
+    })
+  }
+
   render() {
     return (
       <div className="navbar__wrapper">
@@ -27,10 +34,10 @@ class Navbar extends Component {
               <a href="/"><img src={logo} className="logo" alt="logo" /></a>
             </div>
             <ul className={this.state.isOpen ? 'nav__links showNav' : 'nav__links'}>
-              <li><NavLink activeClassName="is-active" exact to="/">home</NavLink></li>
-              <li><NavLink activeClassName="is-active" exact to="/products-services">products &amp; services </NavLink></li>
-              <li><NavLink activeClassName="is-active" exact to="/resources">resources</NavLink></li>
-              <li><NavLink activeClassName="is-active" exact to="/about-us">about us</NavLink></li>
+              <li><NavLink activeClassName="is-active" exact to="/" onClick={this.closeNav}>home</NavLink></li>
+              <li><NavLink activeClassName="is-active" exact to="/products-services" onClick={this.closeNav}>products &amp; services </NavLink></li>
+              <li><NavLink activeClassName="is-active" exact to="/resources" onClick={this.closeNav}>resources</NavLink></li>
+              <li><NavLink activeClassName="is-active" exact to="/about-us" onClick={this.closeNav}>about us</NavLink></li>
             </ul>
           </div>
           <ul className="contact__links">
