@@ -10,10 +10,8 @@ const Search = () => {
             <div className="text">
               <p>Use our gene search application powered by TSRI's MyGene.info web service and the Protein Data Bank to learn more about a gene, its pathways, protein structure, and publications.</p>
             </div>
-            <div className="search-btn">
-              <div className="btn">
-                <a href="/">search</a>
-              </div>
+            <div className="btn search-btn">
+              <a href="/">search</a>
             </div>
           </div>
         </div>
