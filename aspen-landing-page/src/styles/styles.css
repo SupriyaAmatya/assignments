@@ -1,6 +1,7 @@
 body {
     width: 100%;
     position: relative;
+    overflow-x: hidden;
 }
 
 .navbar__wrapper {
@@ -528,7 +529,7 @@ footer hr {
 
 /* tablets */
 
-@media only screen and (max-width:940px) {
+@media only screen and (max-width:960px) {
     .container {
         padding-left: 15px;
         padding-right: 15px;
@@ -686,6 +687,9 @@ footer hr {
     .blog-title {
         text-align: center;
     }
+    .contact__links {
+        display: none;
+    }
 }
 
 /* mobile phones */
@@ -693,9 +697,6 @@ footer hr {
 @media only screen and (max-width:480px) {
     .container {
         max-width: 450px;
-    }
-    .contact__links {
-        display: none;
     }
     .hero-content {
         flex-flow: column;
