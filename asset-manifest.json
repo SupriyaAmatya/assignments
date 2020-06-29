@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/assignments/static/css/main.79933f27.chunk.css",
+    "main.css": "/assignments/static/css/main.beb58b14.chunk.css",
     "main.js": "/assignments/static/js/main.adf4f7c3.chunk.js",
     "main.js.map": "/assignments/static/js/main.adf4f7c3.chunk.js.map",
     "runtime-main.js": "/assignments/static/js/runtime-main.afeff571.js",
@@ -8,9 +8,9 @@
     "static/js/2.1d539887.chunk.js": "/assignments/static/js/2.1d539887.chunk.js",
     "static/js/2.1d539887.chunk.js.map": "/assignments/static/js/2.1d539887.chunk.js.map",
     "index.html": "/assignments/index.html",
-    "precache-manifest.f6652907a5d00ae59353ea04faa804d3.js": "/assignments/precache-manifest.f6652907a5d00ae59353ea04faa804d3.js",
+    "precache-manifest.5f4c81dd47547604d519499f26842c9c.js": "/assignments/precache-manifest.5f4c81dd47547604d519499f26842c9c.js",
     "service-worker.js": "/assignments/service-worker.js",
-    "static/css/main.79933f27.chunk.css.map": "/assignments/static/css/main.79933f27.chunk.css.map",
+    "static/css/main.beb58b14.chunk.css.map": "/assignments/static/css/main.beb58b14.chunk.css.map",
     "static/js/2.1d539887.chunk.js.LICENSE.txt": "/assignments/static/js/2.1d539887.chunk.js.LICENSE.txt",
     "static/media/Bitmap.png": "/assignments/static/media/Bitmap.b82e3c54.png",
     "static/media/styles.css": "/assignments/static/media/background.2fed8a6d.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.afeff571.js",
     "static/js/2.1d539887.chunk.js",
-    "static/css/main.79933f27.chunk.css",
+    "static/css/main.beb58b14.chunk.css",
     "static/js/main.adf4f7c3.chunk.js"
   ]
 }
