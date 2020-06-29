@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "859416e121cb97090f839f3fcdd26c11",
+    "revision": "d0d7d2d73e7eb0f68ca75fa1bcc6e51f",
     "url": "/assignments/index.html"
   },
   {
-    "revision": "5460e1882bbcee6bb4e2",
-    "url": "/assignments/static/css/main.2845d3f0.chunk.css"
+    "revision": "1a7871a41ced76281d1e",
+    "url": "/assignments/static/css/main.79933f27.chunk.css"
   },
   {
     "revision": "c12e092f9d0fd2c4934a",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assignments/static/js/2.1d539887.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5460e1882bbcee6bb4e2",
-    "url": "/assignments/static/js/main.5070f147.chunk.js"
+    "revision": "1a7871a41ced76281d1e",
+    "url": "/assignments/static/js/main.adf4f7c3.chunk.js"
   },
   {
     "revision": "1b4f49c91792474b2892",
     "url": "/assignments/static/js/runtime-main.afeff571.js"
   },
   {
-    "revision": "bd83b30865edf0b2fdfceb0885484135",
-    "url": "/assignments/static/media/Bitmap.bd83b308.png"
+    "revision": "b82e3c541697572cdf6b84c370ac6eaf",
+    "url": "/assignments/static/media/Bitmap.b82e3c54.png"
   },
   {
     "revision": "2fed8a6d414e06b44c74b4120c7a03ba",
