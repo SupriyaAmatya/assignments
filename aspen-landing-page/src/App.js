@@ -7,7 +7,6 @@ import Footer from './components/layout/Footer';
 import Products from './components/Products';
 import Resources from './components/Resources';
 import About from './components/About';
-// import Footer from './components/layout/Footer';
 
 class App extends React.Component {
   render() {

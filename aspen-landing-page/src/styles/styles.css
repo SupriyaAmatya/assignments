@@ -469,6 +469,7 @@ footer {
 }
 
 footer hr {
+    background-color: #7E7E7E;
     border: 1px solid #7E7E7E;
     opacity: 0.6;
 }
